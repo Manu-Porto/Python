@@ -1,0 +1,5 @@
+phrase = "escreva frase aqui"
+
+print(phrase.title())
+print(phrase.upper())
+print(phrase.lower())
