@@ -1,4 +1,4 @@
-phrase = "escreva frase aqui"
+phrase = 'escreva frase aqui'
 
 print(phrase.title())
 print(phrase.upper())
